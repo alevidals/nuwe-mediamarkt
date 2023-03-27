@@ -190,7 +190,6 @@ export function ParcelList() {
           </StyledButton>
         </StyledView>
       </StyledView>
-      {/* </StyledView> */}
     </StyledSafeAreaView>
   );
 }
